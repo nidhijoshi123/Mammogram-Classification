@@ -16,4 +16,4 @@ validationPath = '<Base path>/Validation/'
 testPath = '<Base path>/Test/'
 cancerTestPath = '<Base path>/Test/Cancerous/'
 normalTestPath = '<Base path>/Test/Normal/'
-numberOfImages = 1292
+numberOfImages = <Number of mammography images>
